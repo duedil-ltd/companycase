@@ -1,0 +1,421 @@
+Anchor Bankside
+The Bedford
+Bell Savage Inn
+Bishop's Finger
+The Black Friar, Blackfriars
+Black Lion, Kilburn
+Boar's Head Inn
+The Boot, Cromer Street
+Devonshire Arms
+Dirty Dick
+East India Arms
+Flying Scotsman, Kings Cross
+The Fortune of War Public House
+Freemasons Arms, Covent Garden
+George and Vulture
+Half Moon, Herne Hill
+Hand and Shears
+I Am the Only Running Footman
+Jamaica Wine House
+The Neil Fishwick
+Nell Gwynne Tavern
+The Old Bull and Bush
+Ye Olde Cheshire Cheese
+Ye Olde Cock Tavern
+Ye Olde Mitre
+Paxtons Head
+Penderel's Oak
+The Phene
+Prince Alfred, Maida Vale
+The Roebuck
+The Scots Hoose
+The Shipwrights Arms
+Spaniards Inn
+Sun and 13 Cantons
+Swan Inn
+PS Tattershall Castle
+The Tottenham
+Two Chairmen
+Viaduct Tavern
+The Wenlock Arms
+Wetherspoons
+The Wheatsheaf
+Windermere, South Kenton
+Yorkshire Stingo
+Eastbrook, Dagenham
+Rising Sun, Mill Hill
+Black Prince, Bexley
+Assembly House, Kentish Town
+The Black Cap
+Bull & Gate
+Camden Head
+Dublin Castle, Camden
+The Flask, Hampstead
+The Flask, Highgate
+The Holly Bush, Hampstead
+The Magdala
+The Pineapple, Kentish Town
+The Punch Tavern
+Ship Tavern, Holborn
+The Washington, Hampstead
+Wells Tavern, Hampstead
+The Tipperary
+The Winchester, Highgate
+The World's End, Camden
+Cittie of Yorke
+The Yorkshire Grey
+Upper Flask
+The Washington, Belsize Park
+The Drayton Court
+Duke of Kent, Ealing
+The Forester, Ealing
+The Fox Inn, Hanwell
+Kings Arms, Hanwell
+Cutty Sark, Greenwich
+Hare and Billet
+Kings Arms, Woolwich
+Sun in the Sands
+Aragon House
+Duke of Cumberland, Fulham
+The Cock, Fulham
+The Dove, Hammersmith
+The George, Hammersmith
+Golden Lion, Fulham
+The Hop Poles
+Hope and Anchor, Hammersmith
+The King's Head, Fulham
+Queen's Head, Brook Green
+Salutation, Hammersmith
+The Swan, Hammersmith
+Temperance Billiard Hall, Fulham
+The White Horse, Fulham
+Great Northern Railway, Hornsey
+Queens, Crouch End
+The Salisbury
+The Castle, Harrow
+Seven Balls
+Black Horse, Eastcote
+Case is Altered, Eastcote
+Crown and Treaty
+The Crown, Cowley
+Queen's Head, Uxbridge
+Red Lion, Hillingdon
+The Shovel, Cowley
+Three Tuns, Uxbridge
+Bull's Head, Strand-on-the-Green
+Coach and Horses, Isleworth
+George and Devonshire
+London Apprentice, Isleworth
+Mawson Arms
+Old Packhorse
+Rose and Crown, Isleworth
+The Tabard, Chiswick
+Three Horseshoes, Southall
+The Angel, Islington
+The Hope and Anchor, Islington
+The Island Queen
+The Old Queens Head
+Coleherne, Earls Court
+Crocker's Folly
+The Cross Keys, Chelsea
+Drayton Arms, Earls Court
+The Duke of York, Fitzrovia
+Elgin, Ladbroke Grove
+Fitzroy Tavern
+Fox and Pheasant
+George and Dragon, Fitzrovia
+The Grenadier
+The Hansom Cab
+Rising Sun, Fitzrovia
+The Wheatsheaf, Fitzrovia
+The King's Head and Eight Bells
+Lord High Admiral, Pimlico
+The Marquis of Clanricarde
+The Marquis of Granby
+Newman Arms
+The Old Shades
+The Punch Bowl, Mayfair
+Scarsdale Tavern
+The Sherlock Holmes
+Swan & Edgar, Marylebone
+Druid's Head, Kingston upon Thames
+Boleyn Tavern
+Earl of Essex, Manor Park
+King Edward VII, Stratford
+Spotted Dog, Forest Gate
+Britannia, Richmond
+The Bull's Head, Barnes
+Hare and Hounds, Sheen
+Old Ship, Richmond
+Sun Inn, Barnes
+White Cross, Richmond
+Dog and Duck, St George's Fields
+The George Inn, Southwark
+Herne Tavern
+The Tabard
+The Blind Beggar
+Charlie Brown's, Limehouse
+George Tavern
+The Grapes
+Prospect of Whitby
+Town of Ramsgate
+Bricklayer's Arms, Putney
+The Duke's Head, Putney
+The Grapes, Wandsworth
+The Half Moon, Putney
+King's Head, Roehampton
+King's Head, Tooting
+Montague Arms
+Spread Eagle, Wandsworth
+The White Lion, Putney
+Carlton Tavern, Kilburn
+The Warrington, Maida Vale
+Warwick Castle, Maida Vale
+The Wilton Arms
+The Admiral Duncan
+Argyll Arms
+Candy Bar (London)
+Coach and Horses, Soho
+The Colony Room
+Comptons of Soho
+De Hems
+The French House, Soho
+Pillars of Hercules, Soho
+Callooh Callay Bar
+Hoop and Grapes, Aldgate
+The Joiners Arms
+The Pride of Spitalfields
+Ten Bells
+The Widow's Son, London
+The Harp
+Eastbrook, Dagenham
+The Alexandra, New Barnet
+Mitre Inn, Chipping Barnet
+The Old Bull and Bush
+The Red Lion, Chipping Barnet
+Rising Sun, Mill Hill
+Spaniards Inn
+Black Prince, Bexley
+Windermere, South Kenton
+The Daylight Inn
+Assembly House, Kentish Town
+The Black Cap
+Black Lion, Kilburn
+Bull & Gate
+Camden Head
+Cittie of Yorke
+Devonshire Arms
+The Duke of York, Fitzrovia
+Dublin Castle, Camden
+The Flask, Hampstead
+The Flask, Highgate
+George and Dragon, Fitzrovia
+The Holly Bush, Hampstead
+The Magdala
+Museum Tavern
+Old Red Lion, Holborn
+Old White Bear
+Ye Olde Mitre
+The Pineapple, Kentish Town
+Princess Louise, Holborn
+The Punch Tavern
+Rising Sun, Fitzrovia
+Ship Tavern, Holborn
+Sir Richard Steele (public house)
+The Tipperary
+Upper Flask
+Viaduct Tavern
+The Washington, Belsize Park
+Wells Tavern, Hampstead
+The Wheatsheaf, Fitzrovia
+The Winchester, Highgate
+The World's End, Camden
+The Yorkshire Grey
+Jack Straw's Castle, Hampstead
+The Drayton Court
+Duke of Kent, Ealing
+The Forester, Ealing
+The Fox Inn, Hanwell
+Kings Arms, Hanwell
+Half-Way House, West Ealing
+The Fox, Palmers Green
+Cutty Sark, Greenwich
+Hare and Billet
+Kings Arms, Woolwich
+The Mitre, Greenwich
+Sun in the Sands
+Army and Navy, Stoke Newington
+George and Dragon, Shoreditch
+The Joiners Arms
+Aragon House
+Black Lion, Hammersmith
+Blue Anchor, Hammersmith
+The Cock, Fulham
+The Cross Keys, Hammersmith
+The Dove, Hammersmith
+Duke of Cumberland, Fulham
+Eight Bells, Fulham
+The George, Hammersmith
+Golden Lion, Fulham
+Hampshire Hog
+The Hop Poles
+Hope and Anchor, Hammersmith
+The King's Head, Fulham
+Laurie Arms
+Queen's Head, Brook Green
+Rutland Arms, Hammersmith
+Salutation, Hammersmith
+The Swan, Hammersmith
+Temperance Billiard Hall, Fulham
+The White Horse, Fulham
+Coachmakers Arms, Hammersmith
+The Favourite (pub)
+Seven Stars, West Kensington
+Great Northern Railway, Hornsey
+Queens, Crouch End
+The Salisbury
+Fishmongers Arms
+The Castle, Harrow
+Queen's Head, Pinner
+Seven Balls
+Black Horse, Eastcote
+Case is Altered, Eastcote
+Crown and Treaty
+The Crown, Cowley
+Queen's Head, Uxbridge
+Red Lion, Hillingdon
+The Shovel, Cowley
+Three Tuns, Uxbridge
+The Swan Inn, Ruislip
+Bull's Head, Strand-on-the-Green
+Coach and Horses, Isleworth
+George and Devonshire
+London Apprentice, Isleworth
+Mawson Arms
+Old Packhorse
+Rose and Crown, Isleworth
+The Tabard, Chiswick
+Three Horseshoes, Southall
+The Angel, Islington
+Flying Scotsman, Kings Cross
+The Hope and Anchor, Islington
+The Island Queen
+The Old Queens Head
+The Wenlock Arms
+Chelsea Potter
+Coleherne, Earls Court
+Crocker's Folly
+The Cross Keys, Chelsea
+Drayton Arms, Earls Court
+Elgin, Ladbroke Grove
+Fitzroy Tavern
+Fox and Pheasant
+The Goat, Kensington
+Goat in Boots
+The Grenadier
+The Hansom Cab
+Hollywood Arms, Chelsea
+The King's Head and Eight Bells
+The Marquis of Clanricarde
+The Marquis of Granby
+Newman Arms
+The Old Shades
+The Phene
+The Punch Bowl, Mayfair
+Scarsdale Tavern
+Swan & Edgar, Marylebone
+The World's End, Chelsea
+Zetland Arms
+Druid's Head, Kingston upon Thames
+The Duke of Edinburgh, Brixton
+Boleyn Tavern
+Earl of Essex, Manor Park
+King Edward VII, Stratford
+Spotted Dog, Forest Gate
+Britannia, Richmond
+The Bull's Head, Barnes
+Hare and Hounds, Sheen
+Old Ship, Richmond
+Sun Inn, Barnes
+White Cross, Richmond
+The White Swan, Twickenham
+Dysart Arms
+Anchor Bankside
+The George Inn, Southwark
+Half Moon, Herne Hill
+Herne Tavern
+The Roebuck
+The Shipwrights Arms
+The Tabard
+The Wheatsheaf
+Dog and Duck, St George's Fields
+The Blind Beggar
+Charlie Brown's, Limehouse
+George Tavern
+Golden Heart, Spitalfields
+The Grapes
+The Pride of Spitalfields
+Prospect of Whitby
+The Royal Oak, Bethnal Green
+Ten Bells
+Town of Ramsgate
+The Widow's Son, London
+The Joiners Arms
+Bull and Crown, Chingford
+The Bedford, Balham
+Bricklayer's Arms, Putney
+The Duke's Head, Putney
+The Grapes, Wandsworth
+Green Man, Putney
+The Half Moon, Putney
+King's Head, Roehampton
+King's Head, Tooting
+Montague Arms
+Spread Eagle, Wandsworth
+The White Lion, Putney
+The Alchemist, Battersea
+Admiral Duncan (pub)
+The Albert
+Argyll Arms
+Candy Bar (London)
+Carlton Tavern, Kilburn
+Coach and Horses, Soho
+Coal Hole, Strand
+The Colony Room
+Comptons of Soho
+De Hems
+The French House, Soho
+George and Vulture
+The Harp
+Nell Gwynne Tavern
+The Only Running Footman
+Paxtons Head
+Pillars of Hercules, Soho
+Prince Alfred, Maida Vale
+The Ship (public house)
+Sun and 13 Cantons
+PS Tattershall Castle
+The Tottenham
+Two Chairmen
+The Warrington, Maida Vale
+Warwick Castle, Maida Vale
+The Sherlock Holmes
+White Lion, Covent Garden
+The Wilton Arms
+Lord High Admiral, Pimlico
+The Scots Hoose
+The Star, St John’s Wood
+Yorkshire Stingo
+The Black Friar, Blackfriars
+East India Arms
+Hand and Shears
+Hoop and Grapes, Aldgate
+Jamaica Wine House
+Ye Olde Cheshire Cheese
+Ye Olde Cock Tavern
+The Olde Wine Shades
+Swan Inn
+Bell Savage Inn
+The Fortune of War Public House
+White Hart, Bishopsgate
+Boar's Head Inn
