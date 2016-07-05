@@ -32,4 +32,5 @@ setup(
     description='Proper word casing for company names',
     long_description=open_file('README.md').read(),
     zip_safe=True,
+    include_package_data=True,
 )
