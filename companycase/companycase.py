@@ -1,3 +1,5 @@
+# coding=utf-8
+import codecs
 import os
 from collections import Counter
 
@@ -20,9 +22,9 @@ class CompanyCase:
             raise SystemError("Language '{0}' does not exist".format(language))
 
         all_grams = []
-        with open(wordlist) as f:
+        with codecs.open(wordlist, 'r', encoding='utf-8') as f:
             for line in f:
-                words = line.strip('\n').lower().encode('utf-8').split()
+                words = line.strip('\n').lower().split()
                 ngrams = reduce(lambda x, y: x + y, map(lambda word: self.find_ngrams(word, ngram_length), words))
                 all_grams += ngrams
         return dict(Counter(all_grams))
@@ -32,7 +34,11 @@ class CompanyCase:
         return dict([(x, y/total) for x, y in t.iteritems()])
 
     def force_case_for_words(self, l):
-        """ Add additional words to force case for"""
+        """
+         Add additional words to force case for
+        :param l: a list of words to force the case for
+        :return: None
+        """
         self.force_case += l
 
     def score_word(self, word):
@@ -43,6 +49,12 @@ class CompanyCase:
         return sum(map(lambda x: self.norm_transitions.get(x, 0), ngrams)) / len(ngrams)
 
     def apply(self, company_name, threshold=0.001):
+        """
+        Applies the case transformation on the given string
+        :param company_name: string representing company name
+        :param threshold: the transition score threshold to identify abbreviations
+        :return: a string containing words with fixed case
+        """
 
         fixed_name = []
         for word in company_name.split():
@@ -59,9 +71,9 @@ class CompanyCase:
                 # else, Upper case
                 score = self.score_word(word)
                 if score < threshold:
-                    fixed_word = word.upper()
+                    fixed_word = word.decode('utf-8').upper()
                 else:
-                    fixed_word = word.title()
+                    fixed_word = word.decode('utf-8').title()
 
                 # Clean up any trailing 'S
                 if fixed_word.endswith("'S"):
