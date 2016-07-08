@@ -9,7 +9,10 @@ class CompanyCase:
         self.ngram_length = ngram_length
         self.transitions = self.fetch_all_transitions(language, ngram_length)
         self.norm_transitions = self.normalize_transitions(self.transitions)
-        self.force_case = ['of', 'and', 'IT', 'PLC']
+
+        # While most sensible parameters will capitalize the acronyms, forcing them here
+        # to make sure they don't get title cased for whatever set of parameters.
+        self.force_case = ['of', 'and', 'IT', 'PLC', 'LLC', 'LTD']
 
     def find_ngrams(self, input_list, n):
         """ Returns a list of n-grams """
