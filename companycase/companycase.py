@@ -9,7 +9,7 @@ class CompanyCase:
         self.ngram_length = ngram_length
         self.transitions = self.fetch_all_transitions(language, ngram_length)
         self.norm_transitions = self.normalize_transitions(self.transitions)
-        self.force_case = ['of', 'and', 'IT', 'PLC', 'LTD', 'LLC']
+        self.force_case = ['of', 'and', 'IT', 'PLC']
 
     def find_ngrams(self, input_list, n):
         """ Returns a list of n-grams """
@@ -30,12 +30,8 @@ class CompanyCase:
         return dict(Counter(all_grams))
 
     def normalize_transitions(self, t):
-        normed_t = {}
-        for k in t:
-            edges = filter(lambda x: x.startswith(k[0]), t.keys())
-            total = float(reduce(lambda x, y: x + y, map(lambda x: t[x], edges)))
-            normed_t[k] = t[k] / total
-        return normed_t
+        total = float(reduce(lambda x, y: x + y, t.values()))
+        return dict([(x, y/total) for x, y in t.iteritems()])
 
     def force_case_for_words(self, l):
         """
