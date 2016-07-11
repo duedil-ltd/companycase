@@ -59,6 +59,9 @@ class CompanyCase:
         :return: a string containing words with fixed case
         """
 
+        if type(company_name) == unicode:
+            company_name = company_name.encode('utf-8')
+
         fixed_name = []
         for word in company_name.split():
             fixed_word = None
