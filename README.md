@@ -21,7 +21,7 @@ No external packages are required. Install with
 
 or using `pip` with
 
-    pip install git+git://github.com/nk412/companycase.git#egg=companycase
+    pip install git+git://github.com/duedil-ltd/companycase.git#egg=companycase
 
 ### Quickstart
     
