@@ -12,7 +12,7 @@ class CompanyCase:
 
         # While most sensible parameters will capitalize the acronyms, forcing them here
         # to make sure they don't get title cased for whatever set of parameters.
-        self.force_case = ['of', 'and', 'IT', 'PLC', 'LLC', 'LTD', 'LLP']
+        self.force_case = ['of', 'and', 'IT', 'PLC', 'LLC', 'Ltd', 'LLP']
 
     def find_ngrams(self, input_list, n):
         """ Returns a list of n-grams """
