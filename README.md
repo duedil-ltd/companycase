@@ -7,11 +7,11 @@
 | hsbc uk bank plc | HSBC UK Bank PLC |
 | cloudera (uk) limited | Cloudera (UK) Limited
 | kfc restaurants limited | KFC Restaurants Limited|
-| a&g holdings ltd | A&G Holdings LTD |
+| a&g holdings ltd | A&G Holdings Ltd |
 | jp morgan | JP Morgan |
 | axa insurance co.| AXA Insurance Co. |
     
-`companycase` uses n-grams to distinguish words that *are or look like dictionary words* (bank, limited, cloudera, deliveroo) from words that do not (HSBC, LTD, HJHJ). Words that do not tend to be acronyms and abbreviations in the context of a company name, and are thus capitalised.
+`companycase` uses n-grams to distinguish words that *are or look like dictionary words* (bank, limited, cloudera, deliveroo) from words that do not (HSBC, JP, HJHJ). Words that do not tend to be acronyms in the context of a company name, and are thus capitalised.
 
 ### Installation
 
